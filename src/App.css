@@ -1,0 +1,162 @@
+html{
+  background-color: #c5c5c5;
+  height: 100%;
+}
+
+#header{
+  padding:20px;
+  color:white;
+  background: linear-gradient(black, #343434);
+}
+
+#customFileName{
+  margin-left: 26px;
+}
+
+#dropzone{
+  width:50%;
+  margin:auto;
+  color:white;
+  padding:20px;
+  background: linear-gradient(black, #343434);
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#createNew{
+  width:50%;
+  margin:auto;
+  color:white;
+  padding:20px;
+  background: linear-gradient(black, #343434);
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#toolbar{
+  background: linear-gradient(#6a6a6a, #bbbbbb);
+  padding:5px;
+  box-shadow: 1px 3px 10px white;
+  float:left;
+  margin:auto;
+  width:25%;
+  padding-bottom: 200px;
+}
+
+
+#inputSection{
+  margin:auto;
+  width:50%;
+  padding: 20px;
+  background: linear-gradient(black, #343434);
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 1px 5px 10px white;
+  margin-bottom: 60px;
+  float: right;
+  margin-right: 100px;
+}
+
+#inputSection h1 {
+  color:white;
+  text-align: center;
+}
+
+#toolbarItem{
+  padding:2px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+#editSec{
+  margin:auto;
+  width:50%;
+  padding: 20px;
+  background: linear-gradient(black, #343434);
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 1px 5px 10px white;
+  margin-bottom: 60px;
+  float: right;
+  margin-right: 100px;
+  color:white;
+}
+
+#selectedCellName{
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+#selectedCellValue {
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+#statsSection{
+  margin:auto;
+  width:50%;
+  padding: 20px;
+  background: linear-gradient(black, #343434);
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 1px 5px 10px white;
+  margin-bottom: 60px;
+  float: right;
+  margin-right: 100px;
+  color:white;
+}
+
+.radio{
+  margin-right: 20px;
+}
+
+.but{
+  background: linear-gradient(black, #343434);
+  color:white;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+
+.palette{
+  margin-right:10px;
+}
+
+#docSection{
+  margin:auto;
+  width:50%;
+  margin-top: 20px;
+  margin-right: 140px;
+  padding:20px;
+  background: linear-gradient(black, #343434);
+  border-radius: 5px;
+  box-shadow: 1px 5px 10px white;
+  float:right;
+}
+
+#textarea{box-shadow: 1px 5px 10px white;}
+
+#palleteBox{
+  float:left;
+  background: linear-gradient(#6a6a6a, #bbbbbb);
+  padding: 5px;
+  margin:auto;
+  width:25%;
+  font-size: 20px;
+  padding-bottom: 200px;
+}
+
+#colorPicker{
+  margin-left: 10px;
+  padding:10px;
+}
+
+#titleSetter{
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
